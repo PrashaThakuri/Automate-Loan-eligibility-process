@@ -1,3 +1,5 @@
 About Company: Sunrise Bank deals with home loans. Customer first apply for home loan after that company validates the customer eligibility for loan.
-Problem: Bank wants to explore various features of a borrowers and predict of the loans will be paid or not.
+Problem: Bank wants to explore various features of a borrowers like LoanId, CustomerId, current loan amount, Loan term, credit score, Annual income, years in current job,
+home ownership, purpose of loan, Monthly debt, years of credit history, montsh since lat delinquent, number of open accounts, number of credit problems, current credit balance,
+maximun open credit, bankrupties, and Tax liens and predict of the loans will be paid or not.
 DataSet: 
